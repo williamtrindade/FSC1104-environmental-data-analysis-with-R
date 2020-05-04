@@ -3,4 +3,5 @@ Environmental Data Analysis with R discipline codes from UFSM systems for intern
 
 ## Links:  
 #### R language: https://www.r-project.org/  
-#### CRAN: https://cran.r-project.org/
+#### CRAN:       https://cran.r-project.org/
+#### E-book:     https://lhmet.github.io/adar-ebook/

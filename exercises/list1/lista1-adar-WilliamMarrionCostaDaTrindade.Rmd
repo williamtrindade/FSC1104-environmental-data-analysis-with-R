@@ -52,9 +52,7 @@ d
 
 ```{r}
 sqrt(16)
-
 2 ^ (0.5 ^ 3)
-
 4 * (3 / 2)
 ```
 
@@ -270,8 +268,7 @@ round(O10kPa)
 round(O33kPa)
 round(O1500kPa)
 ```
-
-- - - 
+- - -
 
 10. Instale a última versão do R no (seu) computador usado para resolução desta lista. Crie um script chamado `solucao-q10-NomeDoAluno.R` contendo os codigos gerados para solução das questões 7 e 8. Faça as seguintes alterações no código do script:
  - no código da questão 8, utilize a temperatura do ar (T) de 30°C e Umidade relativa (UR) de 30% para calcular `Tw`.
